@@ -19,7 +19,7 @@ https://github.com/EHungYang1/UECM3033_assign1
 
 Put here the screen shot of file (python.png)
 
-
+<p><img alt="python.png" src="python.png"></p>
 
 
 ------------------------------------------------------------
@@ -27,7 +27,7 @@ Put here the screen shot of file (python.png)
 ## Task 3 -- modify and run Python script
 
 In this section, please report:
-¡¡¡¡
+Â¡Â¡Â¡Â¡
 1. The hexadecimal value of your student ID.
 Ans = 0x13e029
 
